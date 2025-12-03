@@ -9,7 +9,7 @@
 
 - 🌱 Learning all about ... **Python, Machine Learning and Cyber Security**
 
-- 💬 Ask me about... **Web Application,Cyber Security,RestAPI**
+- 💬 Ask me about... **Web Application,Cyber Security,RestAPI, React, NodeJS**
 
 - 📫 How to reach me... **mdalaminislam.py@gmail.com Mobile: +8801310202250**
 
