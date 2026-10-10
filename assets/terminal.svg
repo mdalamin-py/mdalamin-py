@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="390" viewBox="0 0 560 390" fill="none">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#ff2e88"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 15px; }
+      .p { fill: #39ff14; } .h { fill: #00d9ff; } .c { fill: #c9d1d9; } .o { fill: #8b949e; }
+      .ok { fill: #39ff14; } .w { fill: #ffbd2e; } .k { fill: #ff7ab5; }
+      .l { animation: show .35s ease-out both; }
+      .l1 { animation-delay: .3s; }  .l2 { animation-delay: 1.0s; }
+      .l3 { animation-delay: 1.8s; } .l4 { animation-delay: 2.5s; }
+      .l5 { animation-delay: 3.3s; } .l6 { animation-delay: 4.0s; } .l7 { animation-delay: 4.6s; }
+      .l8 { animation-delay: 5.4s; } .l9 { animation-delay: 6.1s; } .l10 { animation-delay: 6.8s; }
+      @keyframes show { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="558" height="388" rx="14" fill="#0d1117" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M1 15 a14 14 0 0 1 14 -14 H545 a14 14 0 0 1 14 14 V40 H1 Z" fill="#161b22"/>
+  <circle cx="24" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="21" r="6" fill="#27c93f"/>
+  <text x="280" y="26" text-anchor="middle" class="o" style="font-size:13px">alamin@kali: ~</text>
+
+  <g class="l l1"><text x="22" y="76"><tspan class="p">alamin@kali</tspan><tspan class="c">:</tspan><tspan class="h">~</tspan><tspan class="c">$ whoami</tspan></text></g>
+  <g class="l l2"><text x="22" y="102" class="c">Md Al Amin · Lead Dev @ Developers Thrill</text></g>
+
+  <g class="l l3"><text x="22" y="138"><tspan class="p">alamin@kali</tspan><tspan class="c">:</tspan><tspan class="h">~</tspan><tspan class="c">$ cat stack.txt</tspan></text></g>
+  <g class="l l4"><text x="22" y="164"><tspan class="h">Python</tspan><tspan class="o"> · </tspan><tspan class="h">Django</tspan><tspan class="o"> · </tspan><tspan class="k">React</tspan><tspan class="o"> · </tspan><tspan class="k">Tailwind</tspan></text></g>
+
+  <g class="l l5"><text x="22" y="200"><tspan class="p">alamin@kali</tspan><tspan class="c">:</tspan><tspan class="h">~</tspan><tspan class="c">$ ./malware-scan --site client.com</tspan></text></g>
+  <g class="l l6"><text x="22" y="226"><tspan class="w">[!]</tspan><tspan class="c"> 3 backdoors · 1 web-shell found</tspan></text></g>
+  <g class="l l7"><text x="22" y="252"><tspan class="ok">[✓]</tspan><tspan class="c"> Cleaned · Hardened · 0 threats left</tspan></text></g>
+
+  <g class="l l8"><text x="22" y="288"><tspan class="p">alamin@kali</tspan><tspan class="c">:</tspan><tspan class="h">~</tspan><tspan class="c">$ echo $MOTTO</tspan></text></g>
+  <g class="l l9"><text x="22" y="314" class="k">Secure. Scalable. Efficient.</text></g>
+
+  <g class="l l10">
+    <text x="22" y="350"><tspan class="p">alamin@kali</tspan><tspan class="c">:</tspan><tspan class="h">~</tspan><tspan class="c">$</tspan></text>
+    <rect class="cursor" x="146" y="336" width="9" height="18" fill="#39ff14"/>
+  </g>
+</svg>

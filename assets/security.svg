@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="275" viewBox="0 0 1200 275" fill="none">
+  <defs>
+    <linearGradient id="c1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff2e88"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="c2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b0f1a"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .t { font-family: 'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif; }
+      .m { font-family: 'Fira Code', Consolas, 'Courier New', monospace; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      .pulse.p2 { animation-delay: 1.5s; }
+      @keyframes pulse { 0%,100% { stroke-opacity: .45; } 50% { stroke-opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- card 1: malware -->
+  <rect class="pulse" x="10" y="10" width="580" height="255" rx="18" fill="url(#bg)" stroke="url(#c1)" stroke-width="2" filter="url(#glow)"/>
+  <rect x="34" y="34" width="56" height="56" rx="14" fill="#ff2e88" fill-opacity="0.12" stroke="#ff2e88" stroke-opacity="0.6"/>
+  <g transform="translate(62 62)" stroke="#ff7ab5" stroke-width="2.5" stroke-linecap="round" fill="none">
+    <circle r="11"/>
+    <path d="M0 -11 V-17 M0 11 V17 M-11 0 H-17 M11 0 H17 M-8 -8 L-12 -12 M8 8 L12 12 M-8 8 L-12 12 M8 -8 L12 -12"/>
+  </g>
+  <text class="t" x="108" y="58" font-size="24" font-weight="700" fill="#ffffff">Malware Removal &amp; Forensics</text>
+  <text class="m" x="108" y="82" font-size="13" fill="#ff7ab5">detect → clean → harden → monitor</text>
+  <g class="t" font-size="17" fill="#c9d1d9">
+    <text x="40" y="132"><tspan fill="#ff2e88">▸ </tspan>Website &amp; server malware detection / cleanup</text>
+    <text x="40" y="166"><tspan fill="#ff2e88">▸ </tspan>Backdoor, web-shell &amp; injected-script hunting</text>
+    <text x="40" y="200"><tspan fill="#ff2e88">▸ </tspan>Hacked-site recovery &amp; blacklist removal</text>
+    <text x="40" y="234"><tspan fill="#ff2e88">▸ </tspan>Root-cause analysis to stop reinfection</text>
+  </g>
+
+  <!-- card 2: offensive / defensive -->
+  <rect class="pulse p2" x="610" y="10" width="580" height="255" rx="18" fill="url(#bg)" stroke="url(#c2)" stroke-width="2" filter="url(#glow)"/>
+  <rect x="634" y="34" width="56" height="56" rx="14" fill="#00d9ff" fill-opacity="0.12" stroke="#00d9ff" stroke-opacity="0.6"/>
+  <g transform="translate(662 62)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 -16 L14 -10 V1 C14 9 8 15 0 18 C-8 15 -14 9 -14 1 V-10 Z" stroke="#00d9ff" stroke-width="2.5"/>
+    <path d="M-6 1 l4 4 l8 -9" stroke="#39ff14" stroke-width="2.5"/>
+  </g>
+  <text class="t" x="708" y="58" font-size="24" font-weight="700" fill="#ffffff">Offensive &amp; Defensive Security</text>
+  <text class="m" x="708" y="82" font-size="13" fill="#00d9ff">recon → exploit → report → patch</text>
+  <g class="t" font-size="17" fill="#c9d1d9">
+    <text x="640" y="132"><tspan fill="#00d9ff">▸ </tspan>Web app penetration testing (OWASP Top 10)</text>
+    <text x="640" y="166"><tspan fill="#00d9ff">▸ </tspan>Vulnerability assessment &amp; network scanning</text>
+    <text x="640" y="200"><tspan fill="#00d9ff">▸ </tspan>Server / CMS hardening &amp; WAF setup</text>
+    <text x="640" y="234"><tspan fill="#00d9ff">▸ </tspan>Secure code review: Django, PHP &amp; React</text>
+  </g>
+</svg>
