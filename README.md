@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Md+Al+Amin+%F0%9F%91%8B;Python+%2B+Django+Backend+Engineer;React+%2B+Tailwind+Frontend+Builder;Certified+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Secure+by+design.+Scalable+by+default." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Md+Al+Amin+%F0%9F%91%8B;Python+%2B+Django+Backend+Engineer;Malware+Removal+%26+Forensics+%F0%9F%A6%A0;React+%2B+Tailwind+Frontend+Builder;Certified+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Secure+by+design.+Scalable+by+default." alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,8 @@ I'm a **security-first developer** from 🇧🇩 Bangladesh, bridging robust **b
 
 - 🏢 **Lead Developer** at **Developers Thrill**
 - 🔭 Building **scalable APIs** with Django & **interactive UIs** with React
-- 🛡️ Specializing in **Web Security**, **Malware Forensics** & **Machine Learning**
+- 🛡️ Specializing in **Web Security**, **Malware Removal & Forensics** & **Machine Learning**
+- 🦠 Hands-on experience cleaning **hacked websites** and **removing malware**
 - 💬 Ask me about **React ↔ Django**, **Pentesting**, or **Tailwind CSS**
 - ⚡ I treat code like a puzzle — always hunting the most efficient *(and secure)* piece
 
@@ -45,7 +46,7 @@ class AlAmin:
     stack = {
         "backend":  ["Python", "Django", "PHP"],
         "frontend": ["React", "Tailwind", "JS"],
-        "security": ["Kali", "Nmap", "Selenium"],
+        "security": ["Pentesting", "Malware Removal", "Forensics"],
     }
 
     def motto(self):
@@ -69,10 +70,52 @@ class AlAmin:
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css&theme=dark" />
 </p>
 
-<p align="center"><b>🛡️ Security & OS</b></p>
+<p align="center"><b>🛡️ Cybersecurity & OS</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,selenium&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,py,selenium&theme=dark" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Malwarebytes-0D3ECC?style=for-the-badge&logo=malwarebytes&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_WAF-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress_Security-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+</p>
+
+<!-- ═══════════════════════════ SECURITY SERVICES ═══════════════════════════ -->
+## 🛡️ Security Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🦠 Malware Removal & Forensics**
+- Website & server malware detection and cleanup
+- Backdoor, web-shell & injected-script hunting
+- Hacked-site recovery & blacklist removal
+- Root-cause analysis to stop reinfection
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Offensive & Defensive Security**
+- Web application penetration testing (OWASP Top 10)
+- Vulnerability assessment & network scanning
+- Server / CMS hardening & firewall (WAF) setup
+- Secure code review for Django, PHP & React apps
+
+</td>
+</tr>
+</table>
 
 <p align="center"><b>🔧 DevOps & Tools</b></p>
 <p align="center">
