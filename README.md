@@ -1,6 +1,6 @@
-<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="./assets/hero.svg" alt="Md Al Amin — Full-Stack Developer, Ethical Hacker, Malware Analyst" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md%20Al%20Amin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Researcher&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
 </p>
 
 <p align="center">
