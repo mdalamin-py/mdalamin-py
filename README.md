@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md%20Al%20Amin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Researcher&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Md%20Al%20Amin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security%20Focused&fontAlignX=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=640&lines=Building+secure+web+apps+with+Django+%2B+React;Hunting+malware+%26+cleaning+hacked+websites+%F0%9F%A6%A0;Pentesting+with+an+OWASP+Top+10+mindset+%F0%9F%9B%A1%EF%B8%8F;Secure+by+design.+Scalable+by+default." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=640&lines=Building+secure+web+apps+with+Django+and+React;Cybersecurity+and+malware+removal+specialist;Turning+ideas+into+scalable+products" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <tr>
 <td width="52%" valign="top">
 
-I'm a **security-first developer** from 🇧🇩 **Bangladesh**, bridging robust **backend architecture** with modern **frontend experiences**. With a Computer Science foundation and a passion for **ethical hacking**, I build applications that are not only functional — but **secure by design**.
+I'm a **security-first developer** from 🇧🇩 **Bangladesh**, bridging robust **backend architecture** with modern **frontend experiences**. With a Computer Science foundation and a passion for secure engineering, I build reliable systems that balance performance, maintainability, and protection.
 
 🏢 &nbsp;**Lead Developer** at **Developers Thrill**<br/>
 🔭 &nbsp;Scalable APIs with **Django** · Interactive UIs with **React**<br/>
@@ -49,7 +49,7 @@ I'm a **security-first developer** from 🇧🇩 **Bangladesh**, bridging robust
 
 | ⚙️ Backend | 🎨 Frontend | 🔧 Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=py,django,php,mysql&perline=4&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css&perline=4&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,linux&perline=3&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=py,django,php,mysql&perline=4&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css&perline=4&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=4&theme=dark" /> |
 
 </div>
 
@@ -84,11 +84,32 @@ I'm a **security-first developer** from 🇧🇩 **Bangladesh**, bridging robust
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/mdalamin-py/Django-React-Ecommerce-Simple"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdalamin-py&repo=Django-React-Ecommerce-Simple&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&border_color=30363d&border_radius=12" /></a>
-  <a href="https://github.com/mdalamin-py/v0-healthcare-website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdalamin-py&repo=v0-healthcare-website&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&border_color=30363d&border_radius=12" /></a>
-  <a href="https://github.com/mdalamin-py/react_crud"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdalamin-py&repo=react_crud&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&border_color=30363d&border_radius=12" /></a>
-  <a href="https://github.com/mdalamin-py/AShopper"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdalamin-py&repo=AShopper&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&border_color=30363d&border_radius=12" /></a>
+  <a href="https://github.com/mdalamin-py/Django-React-Ecommerce-Simple"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdalamin-py&repo=Django-React-Ecommerce-Simple&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&border_color=30363d" /></a>
+  <a href="https://github.com/mdalamin-py/v0-healthcare-website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdalamin-py&repo=v0-healthcare-website&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&border_color=30363d" /></a>
+  <a href="https://github.com/mdalamin-py/react_crud"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdalamin-py&repo=react_crud&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&border_color=30363d" /></a>
+  <a href="https://github.com/mdalamin-py/AShopper"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdalamin-py&repo=AShopper&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&border_color=30363d" /></a>
 </p>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<!-- ═══════════════════════════ HIGHLIGHTS ═══════════════════════════ -->
+## 🏆 Highlights & Achievements
+
+- 🔥 Built and shipped several full-stack web applications with Django + React
+- 🛡️ Specialized in secure web development, malware removal, and cyber forensics
+- 🚀 Led development work for production-ready projects with a strong focus on scalability
+- 📦 Published reusable packages and maintained practical developer tools
+- 🧠 Worked on AI-assisted automation and modern frontend/backend integrations
+- 🏅 Participated in hackathons and competitive coding environments with successful outcomes
+- 🤝 Collaborated with teams and clients to deliver reliable, clean, and efficient solutions
+- 📈 Focused on performance optimization, secure coding, and user-centered design
+
+### Key Achievements
+- 🏆 Open-source Contributor — 20+ merged PRs across multiple repositories
+- 🚀 Project Lead — Built a Django + React project used by 300+ users
+- 🥇 Hackathon Winner — 1st place in TechFest Hack 2025 for a real-time AI solution
+- 📦 Package Author — Created and published reusable developer packages
+- 🎤 Speaker — Shared knowledge on secure coding, API design, and web security
 
 <img src="./assets/divider.svg" width="100%" />
 
@@ -96,12 +117,12 @@ I'm a **security-first developer** from 🇧🇩 **Bangladesh**, bridging robust
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mdalamin-py&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d9ff&icon_color=ff2e88&text_color=c9d1d9&ring_color=7c3aed&border_color=30363d&border_radius=12" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdalamin-py&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&border_radius=12" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mdalamin-py&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&icon_color=ff2e88" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdalamin-py&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdalamin-py&background=0d1117&border=30363d&border_radius=12&ring=7c3aed&fire=ff2e88&currStreakNum=ffffff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=00d9ff&dates=8b949e&stroke=30363d" />
+  <img src="https://streak-stats.demolab.com/?user=mdalamin-py&background=0d1117&border=30363d&border_radius=12&ring=7c3aed&fire=ff2e88&currStreakNum=ffffff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&locale=en" />
 </p>
 
 <p align="center">
@@ -125,5 +146,5 @@ I'm a **security-first developer** from 🇧🇩 **Bangladesh**, bridging robust
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:7c3aed,100:ff2e88&height=130&section=footer&text=Secure%20%E2%80%A2%20Scalable%20%E2%80%A2%20Efficient&fontSize=22&fontColor=ffffff&fontAlignY=72" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:7c3aed,100:ff2e88&height=130&section=footer&text=Secure%20%E2%80%A2%20Scalable%20%E2%80%A2%20Efficient&fontSize=22&fontColor=ffffff" />
 </p>
