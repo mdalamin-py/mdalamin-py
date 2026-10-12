@@ -24,14 +24,12 @@
 <tr>
 <td width="52%" valign="top">
 
-I'm a **security-first full-stack developer** from 🇧🇩 **Bangladesh**, building secure, scalable, and user-focused digital products. I enjoy turning complex ideas into clean, reliable systems using **Python**, **Django**, **React**, and modern web technologies.
+I am a results-driven full-stack developer based in Bangladesh, specialized in building secure, scalable web applications. With a strong foundation in Python and Django and practical experience in React-driven frontends, I design and deliver production-ready systems with emphasis on performance, maintainability, and security. I lead development teams, conduct security hardening and malware remediation, and implement clean architectures that meet business requirements.
 
-💼 &nbsp;**Lead Developer** at **Developers Thrill**<br/>
-🔧 &nbsp;Designing robust **APIs** and high-quality **web applications**<br/>
-🛡️ &nbsp;Specialized in **web security**, **malware cleanup**, and **forensics**<br/>
-⚙️ &nbsp;Focused on **performance**, **clean architecture**, and **secure code**<br/>
-🧠 &nbsp;Passionate about **problem solving**, **automation**, and **innovation**<br/>
-⚡ &nbsp;I enjoy building solutions that are both practical and resilient
+• Role: Lead Developer at Developers Thrill
+• Focus: API design, backend architecture, and secure web development
+• Expertise: Python, Django, React, web security, and incident remediation
+• Approach: Data-driven, testable code; prioritize reliability and user experience
 
 </td>
 <td width="48%" valign="top" align="center">
@@ -91,25 +89,6 @@ I'm a **security-first full-stack developer** from 🇧🇩 **Bangladesh**, buil
 </p>
 
 <img src="./assets/divider.svg" width="100%" />
-
-<!-- ═══════════════════════════ HIGHLIGHTS ═══════════════════════════ -->
-## 🏆 Highlights & Achievements
-
-- 🔥 Built and shipped several full-stack web applications with Django + React
-- 🛡️ Specialized in secure web development, malware removal, and cyber forensics
-- 🚀 Led development work for production-ready projects with a strong focus on scalability
-- 📦 Published reusable packages and maintained practical developer tools
-- 🧠 Worked on AI-assisted automation and modern frontend/backend integrations
-- 🏅 Participated in hackathons and competitive coding environments with successful outcomes
-- 🤝 Collaborated with teams and clients to deliver reliable, clean, and efficient solutions
-- 📈 Focused on performance optimization, secure coding, and user-centered design
-
-### Key Achievements
-- 🏆 Open-source Contributor — 20+ merged PRs across multiple repositories
-- 🚀 Project Lead — Built a Django + React project used by 300+ users
-- 🥇 Hackathon Winner — 1st place in TechFest Hack 2025 for a real-time AI solution
-- 📦 Package Author — Created and published reusable developer packages
-- 🎤 Speaker — Shared knowledge on secure coding, API design, and web security
 
 <img src="./assets/divider.svg" width="100%" />
 
