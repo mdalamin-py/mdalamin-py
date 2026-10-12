@@ -24,14 +24,14 @@
 <tr>
 <td width="52%" valign="top">
 
-I'm a **security-first developer** from 🇧🇩 **Bangladesh**, bridging robust **backend architecture** with modern **frontend experiences**. With a Computer Science foundation and a passion for secure engineering, I build reliable systems that balance performance, maintainability, and protection.
+I'm a **security-first full-stack developer** from 🇧🇩 **Bangladesh**, building secure, scalable, and user-focused digital products. I enjoy turning complex ideas into clean, reliable systems using **Python**, **Django**, **React**, and modern web technologies.
 
-🏢 &nbsp;**Lead Developer** at **Developers Thrill**<br/>
-🔭 &nbsp;Scalable APIs with **Django** · Interactive UIs with **React**<br/>
-🦠 &nbsp;Cleaning **hacked websites** & **removing malware**<br/>
-🛡️ &nbsp;**Web Security**, **Forensics** & **Machine Learning**<br/>
-💬 &nbsp;Ask me about **React ↔ Django**, **Pentesting**, **Tailwind**<br/>
-⚡ &nbsp;I treat code like a puzzle — always hunting the most efficient *(and secure)* piece
+💼 &nbsp;**Lead Developer** at **Developers Thrill**<br/>
+🔧 &nbsp;Designing robust **APIs** and high-quality **web applications**<br/>
+🛡️ &nbsp;Specialized in **web security**, **malware cleanup**, and **forensics**<br/>
+⚙️ &nbsp;Focused on **performance**, **clean architecture**, and **secure code**<br/>
+🧠 &nbsp;Passionate about **problem solving**, **automation**, and **innovation**<br/>
+⚡ &nbsp;I enjoy building solutions that are both practical and resilient
 
 </td>
 <td width="48%" valign="top" align="center">
